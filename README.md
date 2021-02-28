@@ -13,6 +13,8 @@ It consits of 2 Levels 10 sessions per level, Introductory level (Python, Data m
 - Input, Processing, and output.
 - Decision Structures and Boolean Logic.
 
+(Slides - Assignment - Video)
+
 #### Session 2:
 - Repetition structures.
 - Functions and Modules.
