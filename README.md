@@ -2,9 +2,11 @@
 
 ## Training Description:
 
-This training is 
+This training is under the supervision of Dr.Wafaa Rady, head of Communication and Electronics Engineering at the Canadian International College. <br>
+It consits of 2 Levels 10 sessions per level, Introductory level (Python, Data manipulation and Machine Learning Basics) and Advanced Machine Learning (Neural networks, CNN & RNN).
 
-## Training Content:
+
+## Level 1 training Content:
 ### Python:
 #### Session 1:
 - Introduction.
