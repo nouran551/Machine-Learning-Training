@@ -1,1 +1,1 @@
-# Machine-Learning-Course
+# Machine-Learning-Training
