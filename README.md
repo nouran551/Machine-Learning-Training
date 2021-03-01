@@ -2,23 +2,32 @@
 
 ## Training Description:
 
-This training is under the supervision of Dr.Wafaa Rady, head of Communication and Electronics Engineering at the Canadian International College. <br>
-It consits of 2 Levels 10 sessions per level, Introductory level (Python, Data manipulation and Machine Learning Basics) and Advanced Machine Learning (Neural networks, CNN & RNN).
+This training consits of 2 Levels 10 sessions per level:
+1. Introductory level (Python, Data manipulation and Machine Learning Basics).
+2. Advanced Machine Learning (Neural networks, CNN & RNN). 
+
+And it is under the supervision of Dr.Wafaa Rady, head of Communication and Electronics Engineering at the Canadian International College. <br>
 
 
-## Level 1 training Content:
+
+## Level 1 Training Content:
 ### Python:
 #### Session 1:
 - Introduction.
 - Input, Processing, and output.
 - Decision Structures and Boolean Logic.
 
-(Slides - Assignment - Video)
+Find the [assignment](https://github.com/nouran551/Machine-Learning-Training/blob/main/Mini_projects_1.ipynb) <br>
+Check out the [slides](https://docs.google.com/presentation/d/1fh0AXDCvnarNHQsRfsnDADW83HL5z7uM8SjLvcwFFf8/edit?usp=sharing)
+
 
 #### Session 2:
 - Repetition structures.
 - Functions and Modules.
 - Files and Exceptions.
+
+(Slides - Assignment - Video)
+
 
 #### Session 3:
 - Lists and Tuples.
@@ -26,10 +35,13 @@ It consits of 2 Levels 10 sessions per level, Introductory level (Python, Data m
 - Dictionaries and Sets.
 
 
+
+
 #### Session 4:
 - Classes and Object-Oriented Programming.
 - Inheritance/ Polymorphism.
 - Recursion.
+
 
 ### Feature Engineering:
 #### Session 5:
@@ -41,6 +53,8 @@ It consits of 2 Levels 10 sessions per level, Introductory level (Python, Data m
 - Initializing Different Arrays (1s, 0s, full, random, etc...).
 - Basic Mathematics (arithmetic, trigonometry, etc.).
 - Reorganizing Arrays (reshape, vstack, hstack).
+
+
 
 #### Session 6:
 - Raw data to Features.
@@ -62,6 +76,8 @@ It consits of 2 Levels 10 sessions per level, Introductory level (Python, Data m
 - Aggregate Statistics using Groupby (Sum, Mean, Counting).
 - Working with large amounts of data (setting chunksize).
 
+<br>
+<br>
 
 #### Session 7:
 - Why Data Visualization.
@@ -74,6 +90,8 @@ It consits of 2 Levels 10 sessions per level, Introductory level (Python, Data m
   - Box & Whisker Plot.
 
 
+
+
 ### Machine Learning:
 
 #### Session 8:
@@ -84,6 +102,7 @@ It consits of 2 Levels 10 sessions per level, Introductory level (Python, Data m
 - Reinforcement Learning.
 - Supervised VS Unsupervised.
 - Classification.
+
 
 
 #### Session 9:
@@ -102,6 +121,7 @@ It consits of 2 Levels 10 sessions per level, Introductory level (Python, Data m
 - Random Forest.
 - Support Vector Machine.
 - Naive Bayes.
+
 
 
 ## Benefits:
