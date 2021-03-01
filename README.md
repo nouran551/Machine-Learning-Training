@@ -17,6 +17,7 @@ And it is under the supervision of Dr.Wafaa Rady, head of Communication and Elec
 - Input, Processing, and output.
 - Decision Structures and Boolean Logic.
 
+Find all solved examples in the lecture [here](https://colab.research.google.com/drive/1uV7v8TfEMCa7K6YiCFRm04eQYvIJpZW8?usp=sharing) <br>
 Find the [assignment](https://github.com/nouran551/Machine-Learning-Training/blob/main/Mini_projects_1.ipynb) <br>
 Check out the [slides](https://docs.google.com/presentation/d/1fh0AXDCvnarNHQsRfsnDADW83HL5z7uM8SjLvcwFFf8/edit?usp=sharing)
 
