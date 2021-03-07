@@ -29,7 +29,7 @@ Check out the [slides](https://docs.google.com/presentation/d/1fh0AXDCvnarNHQsRf
 
 
 Find all solved examples in the lecture [here](https://colab.research.google.com/drive/1jyF_P_Wai-vp83aGZBRsnf2BhPVYPhM2?usp=sharing) <br>
-Find the [assignment](https://github.com/nouran551/Machine-Learning-Training/blob/main/Mini_projects_1.ipynb) <br>
+Find the assignment [Repetition Structures](https://github.com/nouran551/Machine-Learning-Training/blob/main/Mini_Projects_2.ipynb) <br>
 Check out the [slides](https://docs.google.com/presentation/d/1LcW9MJuDdUFGt7jFzNJcnOunccAejK3ZFrYELSVQRfg/edit?usp=sharing)
 
 
