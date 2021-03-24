@@ -40,12 +40,19 @@ Check out the [slides](https://docs.google.com/presentation/d/1LcW9MJuDdUFGt7jFz
 - Dictionaries and Sets.
 
 
+Find all solved examples in the lecture [here]() <br>
+Find the assignment [assignment]() <br>
+Check out the [slides](https://docs.google.com/presentation/d/1g7NqtzgdsF7AhNY96wBuummWN577uFHBT3Lg5CTzED8/edit?usp=sharing)
 
 
 #### Session 4:
 - Classes and Object-Oriented Programming.
 - Inheritance/ Polymorphism.
 - Recursion.
+
+Find all solved examples in the lecture [here]() <br>
+Find the assignment [assignment]() <br>
+Check out the [slides](https://docs.google.com/presentation/d/1EbvwQBpEbKUptJMsGEouDCX02fGRa2-AjcJ55HldJGg/edit?usp=sharing)
 
 
 ### Feature Engineering:
