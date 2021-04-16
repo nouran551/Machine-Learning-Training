@@ -20,8 +20,8 @@ And it is under the supervision of Dr.Wafaa Rady, head of Communication and Elec
 Find all solved examples in the lecture [here](https://colab.research.google.com/drive/1uV7v8TfEMCa7K6YiCFRm04eQYvIJpZW8?usp=sharing) <br>
 Find the [assignment](https://github.com/nouran551/Machine-Learning-Training/blob/main/Mini_projects_1.ipynb) <br>
 Check out the [slides](https://docs.google.com/presentation/d/1fh0AXDCvnarNHQsRfsnDADW83HL5z7uM8SjLvcwFFf8/edit?usp=sharing)<br>
-Check out the [Recorded Lecture for session 1](https://drive.google.com/file/d/1LRotyCqgUX-OXSVTFFwBEpUARzFt9rqA/view?fbclid=IwAR0hZsLDTsFtWffwSKUZc5XztJiYoTthbdrvtx1figVDr4RvwP-5cQ9kovI)
-
+Check out the [Recorded Lecture for session 1](https://drive.google.com/file/d/1LRotyCqgUX-OXSVTFFwBEpUARzFt9rqA/view?fbclid=IwAR0hZsLDTsFtWffwSKUZc5XztJiYoTthbdrvtx1figVDr4RvwP-5cQ9kovI)<br>
+Check out the [Recorded Lab](https://drive.google.com/file/d/1mRSyRftKEOUgPhzwgmfUfkbAk9HVsTf3/view?fbclid=IwAR2DsYkHtWXmEt6_EspxAEyhL1JtDfJosR5xp6OewcE46wVub8SBLhx1Zsk)
 
 #### Session 2:
 - Repetition structures.
