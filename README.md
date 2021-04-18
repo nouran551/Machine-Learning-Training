@@ -8,7 +8,7 @@ This training consits of 2 Levels 10 sessions per level:
 
 And it is under the supervision of Dr.Wafaa Rady, head of Communication and Electronics Engineering at the Canadian International College. <br>
 
-### Attendance Form: [here](https://docs.google.com/spreadsheets/d/1pkUxYffNOJSXtlL2Zw4gNGdwZNA576QdPvAK0Jtz_rY/edit?usp=sharing)
+### Assignments Form: [here](https://docs.google.com/spreadsheets/d/1pkUxYffNOJSXtlL2Zw4gNGdwZNA576QdPvAK0Jtz_rY/edit?usp=sharing)
 
 ## Level 1 Training Content:
 ### Python:
