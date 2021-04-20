@@ -31,9 +31,9 @@ Check out the [Recorded Lab](https://drive.google.com/file/d/1mRSyRftKEOUgPhzwgm
 
 Find all solved examples in the lecture [here](https://colab.research.google.com/drive/1jyF_P_Wai-vp83aGZBRsnf2BhPVYPhM2?usp=sharing) <br>
 Find the assignment [here](https://github.com/nouran551/Machine-Learning-Training/blob/main/Mini_Projects_2.ipynb) or [here](https://colab.research.google.com/github/nouran551/Machine-Learning-Training/blob/main/Mini_Projects_2.ipynb)<br>
-Check out the [slides](https://docs.google.com/presentation/d/1LcW9MJuDdUFGt7jFzNJcnOunccAejK3ZFrYELSVQRfg/edit?usp=sharing)
-
-
+Check out the [slides](https://docs.google.com/presentation/d/1LcW9MJuDdUFGt7jFzNJcnOunccAejK3ZFrYELSVQRfg/edit?usp=sharing)<br>
+Check out the [Recorded Lecture for session 2- Part 1](https://drive.google.com/file/d/1yds2eU2O7MOTlIbhdaqBUV4prL0PVg3e/view?fbclid=IwAR2zht_iuwdOturYp6TOkw2DOxNhwT1RACovCCKg-9MT-e9VywNVaYTzGz0) <br>
+Check out the [Recorded Lecture for session 2- Part 2](https://drive.google.com/file/d/1axIENnnJwZgbEE8qPQXbUfMBBecRRevK/view?fbclid=IwAR1pmBUtprY59MkbRdGdJ1o_pq0qoZtIKV5-FQEqzK8LmlH-sq5rQQsC_L4)
 
 #### Session 3:
 - Lists and Tuples.
