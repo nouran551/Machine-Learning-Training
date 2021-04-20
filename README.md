@@ -22,7 +22,7 @@ Find the [assignment](https://github.com/nouran551/Machine-Learning-Training/blo
 Check out the [slides](https://docs.google.com/presentation/d/1fh0AXDCvnarNHQsRfsnDADW83HL5z7uM8SjLvcwFFf8/edit?usp=sharing)<br>
 Check out the [Recorded Lecture for session 1](https://drive.google.com/file/d/1LRotyCqgUX-OXSVTFFwBEpUARzFt9rqA/view?fbclid=IwAR0hZsLDTsFtWffwSKUZc5XztJiYoTthbdrvtx1figVDr4RvwP-5cQ9kovI)<br>
 Check out the [Recorded Lab](https://drive.google.com/file/d/1mRSyRftKEOUgPhzwgmfUfkbAk9HVsTf3/view?fbclid=IwAR2DsYkHtWXmEt6_EspxAEyhL1JtDfJosR5xp6OewcE46wVub8SBLhx1Zsk)<br>
-Once you submitted Assignment 1 [Fill the form here](https://docs.google.com/forms/d/e/1FAIpQLSewuXMnKh3gc4AdSjonyC0qmxZQhC7gjiUKuLjgKWPAi6sdvQ/viewform?usp=sf_link) **Deadline: Monday, April 19 at 11:55PM** <br>
+Once you submitted Assignment 1 [Fill the form here](https://docs.google.com/forms/d/e/1FAIpQLSewuXMnKh3gc4AdSjonyC0qmxZQhC7gjiUKuLjgKWPAi6sdvQ/viewform?usp=sf_link) **Deadline: Monday, April 19 at 11:00 PM** <br>
 
 #### Session 2:
 - Repetition structures.
@@ -36,7 +36,7 @@ Find [assignment 2 - part 2](https://colab.research.google.com/drive/1rca6WzF0vV
 Check out the [slides](https://docs.google.com/presentation/d/1LcW9MJuDdUFGt7jFzNJcnOunccAejK3ZFrYELSVQRfg/edit?usp=sharing)<br>
 Check out the [Recorded Lecture for session 2- Part 1](https://drive.google.com/file/d/1yds2eU2O7MOTlIbhdaqBUV4prL0PVg3e/view?fbclid=IwAR2zht_iuwdOturYp6TOkw2DOxNhwT1RACovCCKg-9MT-e9VywNVaYTzGz0) <br>
 Check out the [Recorded Lecture for session 2- Part 2](https://drive.google.com/file/d/1axIENnnJwZgbEE8qPQXbUfMBBecRRevK/view?fbclid=IwAR1pmBUtprY59MkbRdGdJ1o_pq0qoZtIKV5-FQEqzK8LmlH-sq5rQQsC_L4)<br>
-Once you submitted Assignment 2 [Fill the form here](https://docs.google.com/forms/d/e/1FAIpQLSe5fvr7Jm5WqvLZeIyMtPzJ6p3zAPxrYiEndGJJ_Wl8O8XrJA/viewform) **Deadline: Saturday, May 2 at 11:55PM** <br>
+Once you submitted Assignment 2 [Fill the form here](https://docs.google.com/forms/d/e/1FAIpQLSe5fvr7Jm5WqvLZeIyMtPzJ6p3zAPxrYiEndGJJ_Wl8O8XrJA/viewform) **Deadline: Saturday, May 1 at 11:55PM** <br>
 
 #### Session 3:
 - Lists and Tuples.
