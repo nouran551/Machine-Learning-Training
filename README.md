@@ -9,6 +9,7 @@ This training consits of 2 Levels 10 sessions per level:
 And it is under the supervision of Dr.Wafaa Rady, head of Communication and Electronics Engineering at the Canadian International College. <br>
 
 ### Assignments Form: [here](https://docs.google.com/spreadsheets/d/1pkUxYffNOJSXtlL2Zw4gNGdwZNA576QdPvAK0Jtz_rY/edit?usp=sharing)
+### Facebook Group: [here](https://www.facebook.com/groups/258077235856387)
 
 ## Level 1 Training Content:
 ### Python:
@@ -31,11 +32,12 @@ Once you submitted Assignment 1 [Fill the form here](https://docs.google.com/for
 
 
 Find all solved examples in the lecture [here](https://colab.research.google.com/drive/1jyF_P_Wai-vp83aGZBRsnf2BhPVYPhM2?usp=sharing) <br>
-Find [assignment 1 - part 1](https://colab.research.google.com/github/nouran551/Machine-Learning-Training/blob/main/Mini_Projects_2.ipynb) or [here](https://github.com/nouran551/Machine-Learning-Training/blob/main/Mini_Projects_2.ipynb)<br>
+Find [assignment 2 - part 1](https://colab.research.google.com/github/nouran551/Machine-Learning-Training/blob/main/Mini_Projects_2.ipynb) or [here](https://github.com/nouran551/Machine-Learning-Training/blob/main/Mini_Projects_2.ipynb)<br>
 Find [assignment 2 - part 2](https://colab.research.google.com/drive/1rca6WzF0vVK8Mifcw55voaEnsBCcsOAp?usp=sharing) or [here](https://github.com/nouran551/Machine-Learning-Training/blob/main/Mini_Projects_2_part_2.ipynb)<br>
 Check out the [slides](https://docs.google.com/presentation/d/1LcW9MJuDdUFGt7jFzNJcnOunccAejK3ZFrYELSVQRfg/edit?usp=sharing)<br>
 Check out the [Recorded Lecture for session 2- Part 1](https://drive.google.com/file/d/1yds2eU2O7MOTlIbhdaqBUV4prL0PVg3e/view?fbclid=IwAR2zht_iuwdOturYp6TOkw2DOxNhwT1RACovCCKg-9MT-e9VywNVaYTzGz0) <br>
 Check out the [Recorded Lecture for session 2- Part 2](https://drive.google.com/file/d/1axIENnnJwZgbEE8qPQXbUfMBBecRRevK/view?fbclid=IwAR1pmBUtprY59MkbRdGdJ1o_pq0qoZtIKV5-FQEqzK8LmlH-sq5rQQsC_L4)<br>
+Check out the [Recorded Lab for session 2](https://drive.google.com/file/d/1-zW8_PmGOVGuW-aiKXAu5QeE04UiHhIm/view?fbclid=IwAR0RHVN9BpV4uUN3PLBiCKGxj-kKqyjzV0YiDmpwkR9v7gj5PYipqfKGEwg)<br>
 Once you submitted Assignment 2 [Fill the form here](https://docs.google.com/forms/d/e/1FAIpQLSe5fvr7Jm5WqvLZeIyMtPzJ6p3zAPxrYiEndGJJ_Wl8O8XrJA/viewform) **Deadline: Saturday, May 1 at 11:55PM** <br>
 
 #### Session 3:
