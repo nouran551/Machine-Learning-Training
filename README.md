@@ -47,7 +47,7 @@ Once you submitted Assignment 2 [Fill the form here](https://docs.google.com/for
 
 
 Find all solved examples in the lecture [here]() <br>
-Find the assignment [assignment]() <br>
+Find the assignment [assignment](https://colab.research.google.com/drive/14gkfKcSio-aNLl9MxeyY7jafhtvoWfP2?usp=sharing) or [here](https://github.com/nouran551/Machine-Learning-Training/blob/main/mini_Projects_3.ipynb) <br>
 Check out the [slides](https://docs.google.com/presentation/d/1g7NqtzgdsF7AhNY96wBuummWN577uFHBT3Lg5CTzED8/edit?usp=sharing)
 
 
