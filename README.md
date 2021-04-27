@@ -72,6 +72,8 @@ Check out the [slides](https://docs.google.com/presentation/d/1EbvwQBpEbKUptJMsG
 - Basic Mathematics (arithmetic, trigonometry, etc.).
 - Reorganizing Arrays (reshape, vstack, hstack).
 
+Numpy [Lecture](https://colab.research.google.com/drive/1sISZuSMeSyQslbQ1jUWMuKwOyaeZinqU?usp=sharing) or [here](https://github.com/nouran551/Machine-Learning-Training/blob/main/Numpy_Lecture.ipynb)
+
 
 
 #### Session 6:
