@@ -57,7 +57,7 @@ Check out the [slides](https://docs.google.com/presentation/d/1g7NqtzgdsF7AhNY96
 - Recursion.
 
 Find all solved examples in the lecture [here]() <br>
-Find the assignment [assignment]() <br>
+Find the assignment [assignment](https://colab.research.google.com/drive/1PkzM183pXbnfHBayccppm9u48qsjOTnG?usp=sharing) or [here](https://github.com/nouran551/Machine-Learning-Training/blob/main/mini_Projects_4.ipynb) <br>
 Check out the [slides](https://docs.google.com/presentation/d/1EbvwQBpEbKUptJMsGEouDCX02fGRa2-AjcJ55HldJGg/edit?usp=sharing)
 
 
