@@ -40,6 +40,7 @@ Check out the [Recorded Lecture for session 2- Part 2](https://drive.google.com/
 Check out the [Recorded Lab for session 2](https://drive.google.com/file/d/1-zW8_PmGOVGuW-aiKXAu5QeE04UiHhIm/view?fbclid=IwAR0RHVN9BpV4uUN3PLBiCKGxj-kKqyjzV0YiDmpwkR9v7gj5PYipqfKGEwg)<br>
 Once you submitted Assignment 2 [Fill the form here](https://docs.google.com/forms/d/e/1FAIpQLSe5fvr7Jm5WqvLZeIyMtPzJ6p3zAPxrYiEndGJJ_Wl8O8XrJA/viewform) **Deadline: Saturday, May 1 at 11:55PM** <br>
 
+
 #### Session 3:
 - Lists and Tuples.
 - Strings.
@@ -48,8 +49,8 @@ Once you submitted Assignment 2 [Fill the form here](https://docs.google.com/for
 
 Find all solved examples in the lecture [here]() <br>
 Find the assignment [assignment](https://colab.research.google.com/drive/14gkfKcSio-aNLl9MxeyY7jafhtvoWfP2?usp=sharing) or [here](https://github.com/nouran551/Machine-Learning-Training/blob/main/mini_Projects_3.ipynb) <br>
-Check out the [slides](https://docs.google.com/presentation/d/1g7NqtzgdsF7AhNY96wBuummWN577uFHBT3Lg5CTzED8/edit?usp=sharing)
-
+Check out the [slides](https://docs.google.com/presentation/d/1g7NqtzgdsF7AhNY96wBuummWN577uFHBT3Lg5CTzED8/edit?usp=sharing)<br>
+Once you submitted Assignment 3 [Fill the form here](https://docs.google.com/forms/d/e/1FAIpQLSfrg62I1tJ81fekR9yAlv36FbJ44DrIBor4cx-CXDQJhxOV3A/viewform?usp=sf_link)<br>
 
 #### Session 4:
 - Classes and Object-Oriented Programming.
@@ -58,8 +59,8 @@ Check out the [slides](https://docs.google.com/presentation/d/1g7NqtzgdsF7AhNY96
 
 Find all solved examples in the lecture [here]() <br>
 Find the assignment [assignment](https://colab.research.google.com/drive/1PkzM183pXbnfHBayccppm9u48qsjOTnG?usp=sharing) or [here](https://github.com/nouran551/Machine-Learning-Training/blob/main/mini_Projects_4.ipynb) <br>
-Check out the [slides](https://docs.google.com/presentation/d/1EbvwQBpEbKUptJMsGEouDCX02fGRa2-AjcJ55HldJGg/edit?usp=sharing)
-
+Check out the [slides](https://docs.google.com/presentation/d/1EbvwQBpEbKUptJMsGEouDCX02fGRa2-AjcJ55HldJGg/edit?usp=sharing)<br>
+Once you submitted Assignment 4 [Fill the form here](https://docs.google.com/forms/d/e/1FAIpQLSdwAcY4X8w_E-l6TqDf4WV6DPp3jpR_cXveEdnByjj6o5gfbQ/viewform?usp=sf_link)<br>
 
 ### Feature Engineering:
 #### Session 5:
