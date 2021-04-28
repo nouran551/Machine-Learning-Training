@@ -97,6 +97,8 @@ Numpy [Lecture](https://colab.research.google.com/drive/1sISZuSMeSyQslbQ1jUWMuKw
 - Aggregate Statistics using Groupby (Sum, Mean, Counting).
 - Working with large amounts of data (setting chunksize).
 
+
+Pandas [Lecture](https://colab.research.google.com/drive/1YUv3TGZ1sKmFUwUgWPSFQRKJcX7-i7t1?usp=sharing) or [here](https://github.com/nouran551/Machine-Learning-Training/blob/main/Session6_pandas.ipynb)
 <br>
 <br>
 
@@ -111,6 +113,7 @@ Numpy [Lecture](https://colab.research.google.com/drive/1sISZuSMeSyQslbQ1jUWMuKw
   - Box & Whisker Plot.
 
 
+Matplotlib [Lecture](https://colab.research.google.com/drive/1TrwWRMaOzpd7HZlki0YVoaHKbnaagrC_?usp=sharing) or [here](https://github.com/nouran551/Machine-Learning-Training/blob/main/Session7_Matplotlib.ipynb)
 
 
 ### Machine Learning:
