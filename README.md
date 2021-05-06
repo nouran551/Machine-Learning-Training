@@ -37,8 +37,9 @@ Find [assignment 2 - part 2](https://colab.research.google.com/drive/1rca6WzF0vV
 Check out the [slides](https://docs.google.com/presentation/d/1LcW9MJuDdUFGt7jFzNJcnOunccAejK3ZFrYELSVQRfg/edit?usp=sharing)<br>
 Check out the [Recorded Lecture for session 2- Part 1](https://drive.google.com/file/d/1yds2eU2O7MOTlIbhdaqBUV4prL0PVg3e/view?fbclid=IwAR2zht_iuwdOturYp6TOkw2DOxNhwT1RACovCCKg-9MT-e9VywNVaYTzGz0) <br>
 Check out the [Recorded Lecture for session 2- Part 2](https://drive.google.com/file/d/1axIENnnJwZgbEE8qPQXbUfMBBecRRevK/view?fbclid=IwAR1pmBUtprY59MkbRdGdJ1o_pq0qoZtIKV5-FQEqzK8LmlH-sq5rQQsC_L4)<br>
-Check out the [Recorded Lab for session 2](https://drive.google.com/file/d/1-zW8_PmGOVGuW-aiKXAu5QeE04UiHhIm/view?fbclid=IwAR0RHVN9BpV4uUN3PLBiCKGxj-kKqyjzV0YiDmpwkR9v7gj5PYipqfKGEwg)<br>
-Once you submitted Assignment 2 [Fill the form here](https://docs.google.com/forms/d/e/1FAIpQLSe5fvr7Jm5WqvLZeIyMtPzJ6p3zAPxrYiEndGJJ_Wl8O8XrJA/viewform) **Deadline: Saturday, May 1 at 11:55PM** <br>
+Check out the [Recorded Lab for session 2](https://drive.google.com/file/d/1-zW8_PmGOVGuW-aiKXAu5QeE04UiHhIm/view?fbclid=IwAR0RHVN9BpV4uUN3PLBiCKGxj-kKqyjzV0YiDmpwkR9v7gj5PYipqfKGEwg) <br>
+Once you submitted Assignment 2 [Fill the form here](https://docs.google.com/forms/d/e/1FAIpQLSe5fvr7Jm5WqvLZeIyMtPzJ6p3zAPxrYiEndGJJ_Wl8O8XrJA/viewform)  **Deadline: Saturday, May 1 at 11:55PM**<br>
+Once you submitted Assignment 2/ part 2 [Fill the form here](https://docs.google.com/forms/d/e/1FAIpQLSd_lkbXS2NGj9CVJwO4qug3pEEhnUwjkjRRPnm9GCZFhKSKrg/viewform?usp=sf_link)  **Deadline: Saturday, May 15 at 11:55PM** <br>
 
 
 #### Session 3:
@@ -170,13 +171,12 @@ Push to your github repo, it will be reviewed and feedback will be sent to you s
 
 
 ## Benefits:
-1. Certificate that can be used for field training 1 or field training 2.
-2. Strong profile on Github.
-3. Department award for top 3 students.
-4. Students will be certified with a total of 140 hrs hands-on experience. 
-5. Daily office hours for support/guidance.
-6. Get the chance to meet new students who share your interests.
-7. Start exploring and building models on Kaggle which is the largest online community for data scientists and machine learning practitioners.
+1. Strong profile on Github.
+2. Department award for top 3 students.
+3. Students will be certified with a total of 140 hrs hands-on experience. 
+4. Daily office hours for support/guidance.
+5. Get the chance to meet new students who share your interests.
+6. Start exploring and building models on Kaggle which is the largest online community for data scientists and machine learning practitioners.
 
 ## Evaluation Method to receive certificates:
 1. Students must attend +80% of total sessions.
