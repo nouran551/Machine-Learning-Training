@@ -38,6 +38,7 @@ Check out the [slides](https://docs.google.com/presentation/d/1LcW9MJuDdUFGt7jFz
 Check out the [Recorded Lecture for session 2- Part 1](https://drive.google.com/file/d/1yds2eU2O7MOTlIbhdaqBUV4prL0PVg3e/view?fbclid=IwAR2zht_iuwdOturYp6TOkw2DOxNhwT1RACovCCKg-9MT-e9VywNVaYTzGz0) <br>
 Check out the [Recorded Lecture for session 2- Part 2](https://drive.google.com/file/d/1axIENnnJwZgbEE8qPQXbUfMBBecRRevK/view?fbclid=IwAR1pmBUtprY59MkbRdGdJ1o_pq0qoZtIKV5-FQEqzK8LmlH-sq5rQQsC_L4)<br>
 Check out the [Recorded Lab for session 2](https://drive.google.com/file/d/1-zW8_PmGOVGuW-aiKXAu5QeE04UiHhIm/view?fbclid=IwAR0RHVN9BpV4uUN3PLBiCKGxj-kKqyjzV0YiDmpwkR9v7gj5PYipqfKGEwg) <br>
+Check out the [Recorded Lab for Session 2.3 + Lab](https://drive.google.com/file/d/1Y1su_xzMZz0HuOtswt2Ytnkq9mu2mbLm/view?fbclid=IwAR1GQ-bw2eesKog6f_sOOh2mVru85Jw9ZMvybowTddvuWEF9QVGoJoqY1Wc) <br>
 Once you submitted Assignment 2 [Fill the form here](https://docs.google.com/forms/d/e/1FAIpQLSe5fvr7Jm5WqvLZeIyMtPzJ6p3zAPxrYiEndGJJ_Wl8O8XrJA/viewform)  **Deadline: Saturday, May 1 at 11:55PM**<br>
 Once you submitted Assignment 2/ part 2 [Fill the form here](https://docs.google.com/forms/d/e/1FAIpQLSd_lkbXS2NGj9CVJwO4qug3pEEhnUwjkjRRPnm9GCZFhKSKrg/viewform?usp=sf_link)  **Deadline: Saturday, May 15 at 11:55PM** <br>
 
@@ -48,9 +49,8 @@ Once you submitted Assignment 2/ part 2 [Fill the form here](https://docs.google
 - Dictionaries and Sets.
 
 
-Find all solved examples in the lecture [here]() <br>
+Find all solved examples in the lecture [here](https://colab.research.google.com/drive/1B1wcdAS8sEk4mQkm-ZiCB4ccIu62hql0?usp=sharing) <br>
 Find the assignment [assignment](https://colab.research.google.com/drive/14gkfKcSio-aNLl9MxeyY7jafhtvoWfP2?usp=sharing) or [here](https://github.com/nouran551/Machine-Learning-Training/blob/main/mini_Projects_3.ipynb) <br>
-Check out the [slides](https://docs.google.com/presentation/d/1g7NqtzgdsF7AhNY96wBuummWN577uFHBT3Lg5CTzED8/edit?usp=sharing)<br>
 Once you submitted Assignment 3 [Fill the form here](https://docs.google.com/forms/d/e/1FAIpQLSfrg62I1tJ81fekR9yAlv36FbJ44DrIBor4cx-CXDQJhxOV3A/viewform?usp=sf_link)<br>
 
 #### Session 4:
