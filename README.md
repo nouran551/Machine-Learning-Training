@@ -23,6 +23,7 @@ Find the [assignment](https://github.com/nouran551/Machine-Learning-Training/blo
 Check out the [slides](https://docs.google.com/presentation/d/1fh0AXDCvnarNHQsRfsnDADW83HL5z7uM8SjLvcwFFf8/edit?usp=sharing)<br>
 Check out the [Recorded Lecture for session 1](https://drive.google.com/file/d/1LRotyCqgUX-OXSVTFFwBEpUARzFt9rqA/view?fbclid=IwAR0hZsLDTsFtWffwSKUZc5XztJiYoTthbdrvtx1figVDr4RvwP-5cQ9kovI)<br>
 Check out the [Recorded Lab](https://drive.google.com/file/d/1mRSyRftKEOUgPhzwgmfUfkbAk9HVsTf3/view?fbclid=IwAR2DsYkHtWXmEt6_EspxAEyhL1JtDfJosR5xp6OewcE46wVub8SBLhx1Zsk)<br>
+Check out the [Solution of the assignment](https://github.com/nouran551/Machine-Learning-Training/blob/main/Solution_Mini_projects_1.ipynb)<br>
 Once you submitted Assignment 1 [Fill the form here](https://docs.google.com/forms/d/e/1FAIpQLSewuXMnKh3gc4AdSjonyC0qmxZQhC7gjiUKuLjgKWPAi6sdvQ/viewform?usp=sf_link) **Deadline: Monday, April 19 at 11:00 PM** <br>
 
 #### Session 2:
@@ -39,6 +40,8 @@ Check out the [Recorded Lecture for session 2- Part 1](https://drive.google.com/
 Check out the [Recorded Lecture for session 2- Part 2](https://drive.google.com/file/d/1axIENnnJwZgbEE8qPQXbUfMBBecRRevK/view?fbclid=IwAR1pmBUtprY59MkbRdGdJ1o_pq0qoZtIKV5-FQEqzK8LmlH-sq5rQQsC_L4)<br>
 Check out the [Recorded Lab for session 2](https://drive.google.com/file/d/1-zW8_PmGOVGuW-aiKXAu5QeE04UiHhIm/view?fbclid=IwAR0RHVN9BpV4uUN3PLBiCKGxj-kKqyjzV0YiDmpwkR9v7gj5PYipqfKGEwg) <br>
 Check out the [Recorded Lab for Session 2.3 + Lab](https://drive.google.com/file/d/1Y1su_xzMZz0HuOtswt2Ytnkq9mu2mbLm/view?fbclid=IwAR1GQ-bw2eesKog6f_sOOh2mVru85Jw9ZMvybowTddvuWEF9QVGoJoqY1Wc) <br>
+Check out the [Solution of assignment 2](https://github.com/nouran551/Machine-Learning-Training/blob/main/Sol_Mini_Projects_2.ipynb)<br>
+Check out the [Solution of assignment 2 - part 2](https://github.com/nouran551/Machine-Learning-Training/blob/main/SOL_Mini_Projects_2_part_2.ipynb)<br>
 Once you submitted Assignment 2 [Fill the form here](https://docs.google.com/forms/d/e/1FAIpQLSe5fvr7Jm5WqvLZeIyMtPzJ6p3zAPxrYiEndGJJ_Wl8O8XrJA/viewform)  **Deadline: Saturday, May 1 at 11:55PM**<br>
 Once you submitted Assignment 2/ part 2 [Fill the form here](https://docs.google.com/forms/d/e/1FAIpQLSd_lkbXS2NGj9CVJwO4qug3pEEhnUwjkjRRPnm9GCZFhKSKrg/viewform?usp=sf_link)  **Deadline: Saturday, May 15 at 11:55PM** <br>
 
