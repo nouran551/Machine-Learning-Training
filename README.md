@@ -54,6 +54,9 @@ Once you submitted Assignment 2/ part 2 [Fill the form here](https://docs.google
 
 Find all solved examples in the lecture [here](https://colab.research.google.com/drive/1B1wcdAS8sEk4mQkm-ZiCB4ccIu62hql0?usp=sharing) <br>
 Find the assignment [assignment](https://colab.research.google.com/drive/14gkfKcSio-aNLl9MxeyY7jafhtvoWfP2?usp=sharing) or [here](https://github.com/nouran551/Machine-Learning-Training/blob/main/mini_Projects_3.ipynb) <br>
+Check out the [Recorded Lecture for session 3- Part 1](https://drive.google.com/file/d/1iXkGZaPd_5KPD6iIsG7mWoTEJax2_M05/view?fbclid=IwAR1rUEPZVJvqh3y19e1C0thIdikDzdlHSbxBaB-wiME8hhn7lpGk0W-v2aY) <br>
+Check out the [Recorded Lecture for session 3- Part 2](https://drive.google.com/file/d/13PVikoRDaY81l8KvzTGBZwTHUAPBKb8z/view?fbclid=IwAR1JA4op1t9OLvfCqs668LpLKuTgVe4_e2SW_X4yTgPi1Wwrnytiwp4h0QI) <br>
+Check out the [Recorded Lecture for session 3- Part 3](https://drive.google.com/file/d/1edPm2rGQk1_HvRwjn6NN36vjfRPmnFd9/view?fbclid=IwAR0lym4vtWEulZvwakop8ZvSn2qqNHozXeej-92iyhwG9VaqdzQDLW84m5g) <br>
 Once you submitted Assignment 3 [Fill the form here](https://docs.google.com/forms/d/e/1FAIpQLSfrg62I1tJ81fekR9yAlv36FbJ44DrIBor4cx-CXDQJhxOV3A/viewform?usp=sf_link)<br>
 
 #### Session 4:
