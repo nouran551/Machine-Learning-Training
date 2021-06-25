@@ -8,9 +8,10 @@ This training consits of 2 Levels 10 sessions per level:
 
 And it is under the supervision of Dr.Wafaa Rady, head of Communication and Electronics Engineering at the Canadian International College. <br>
 
-### Assignments Form: [here](https://docs.google.com/spreadsheets/d/1pkUxYffNOJSXtlL2Zw4gNGdwZNA576QdPvAK0Jtz_rY/edit?usp=sharing)
-### Facebook Group: [here](https://www.facebook.com/groups/258077235856387)
-### Report Problem: [here](https://docs.google.com/forms/d/e/1FAIpQLSdW0bqZs5KdXLjrx3RkQqqXWuUM1OR5M2hoCZn3KVPDNwHXfA/viewform?usp=sf_link)
+#### Assignments Form: [here](https://docs.google.com/spreadsheets/d/1pkUxYffNOJSXtlL2Zw4gNGdwZNA576QdPvAK0Jtz_rY/edit?usp=sharing)
+#### Facebook Group: [here](https://www.facebook.com/groups/258077235856387)
+#### Whatsapp Group: [here](https://chat.whatsapp.com/FP4yyPvoMBNK45bk20q8aR)
+#### Report Problem: [here](https://docs.google.com/forms/d/e/1FAIpQLSdW0bqZs5KdXLjrx3RkQqqXWuUM1OR5M2hoCZn3KVPDNwHXfA/viewform?usp=sf_link)
 
 
 ## Level 1 Training Content:
