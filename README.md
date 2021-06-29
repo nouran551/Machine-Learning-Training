@@ -83,7 +83,8 @@ Once you submitted Assignment 4 [Fill the form here](https://docs.google.com/for
 - Basic Mathematics (arithmetic, trigonometry, etc.).
 - Reorganizing Arrays (reshape, vstack, hstack).
 
-Numpy [Lecture](https://colab.research.google.com/drive/1sISZuSMeSyQslbQ1jUWMuKwOyaeZinqU?usp=sharing) or [here](https://github.com/nouran551/Machine-Learning-Training/blob/main/Numpy_Lecture.ipynb)
+Numpy [Lecture](https://colab.research.google.com/drive/1sISZuSMeSyQslbQ1jUWMuKwOyaeZinqU?usp=sharing) or [here](https://github.com/nouran551/Machine-Learning-Training/blob/main/Numpy_Lecture.ipynb)<br>
+Find the assignment [assignment](https://colab.research.google.com/drive/1PgKzptAlVx_uIB71c1h0B4Prpxn-iCrp?usp=sharing) or [here](https://github.com/nouran551/Machine-Learning-Training/blob/main/Assignment_5.ipynb) <br>
 
 
 
