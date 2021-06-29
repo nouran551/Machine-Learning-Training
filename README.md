@@ -125,7 +125,7 @@ Find the assignment [assignment](https://colab.research.google.com/drive/1pnX_CP
   - Box & Whisker Plot.
 
 
-Matplotlib [Lecture](https://colab.research.google.com/drive/1TrwWRMaOzpd7HZlki0YVoaHKbnaagrC_?usp=sharing) or [here](https://github.com/nouran551/Machine-Learning-Training/blob/main/Session7_Matplotlib.ipynb)
+Matplotlib [Lecture](https://colab.research.google.com/drive/1TrwWRMaOzpd7HZlki0YVoaHKbnaagrC_?usp=sharing) or [here](https://github.com/nouran551/Machine-Learning-Training/blob/main/Session7_Matplotlib.ipynb)<br>
 Find the assignment [assignment](https://colab.research.google.com/drive/1ASVTTDnrk06G6GbLRkNhIO6PzCosD-x2?usp=sharing) or [here](https://github.com/nouran551/Machine-Learning-Training/blob/main/Assignment_7.ipynb) <br>
 
 ### Machine Learning:
