@@ -204,7 +204,7 @@ Push to your github repo, it will be reviewed and feedback will be sent to you s
 
 ## References:
 1. [Starting out with python - Third Edition - Tony Gaddis](https://drive.google.com/file/d/168c1DpQGiR-Ztti_4dGtcaIDmkE7_-Mu/view)
-2. [Python Data Science Handbook Essential Tools for Working with Data](https://drive.google.com/file/d/1tgwDmIt9pYsISds_Zy9CPJeWaZUWwbpE/view?usp=sharing)
+2. [Python Data Science Handbook Essential Tools for Working with Data](https://tanthiamhuat.files.wordpress.com/2018/04/pythondatasciencehandbook.pdf)
 3. [Hands-on Machine Learning with Scikit-Learn & TensorFlow - Aurélien Géron](https://drive.google.com/file/d/1vKKbhljes_gaC8nw7yKD9rCh0xKsMd-W/view)
 
 
