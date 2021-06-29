@@ -108,7 +108,7 @@ Numpy [Lecture](https://colab.research.google.com/drive/1sISZuSMeSyQslbQ1jUWMuKw
 - Working with large amounts of data (setting chunksize).
 
 
-Pandas [Lecture](https://colab.research.google.com/drive/1YUv3TGZ1sKmFUwUgWPSFQRKJcX7-i7t1?usp=sharing) or [here](https://github.com/nouran551/Machine-Learning-Training/blob/main/Session6_pandas.ipynb)
+Pandas [Lecture](https://colab.research.google.com/drive/1YUv3TGZ1sKmFUwUgWPSFQRKJcX7-i7t1?usp=sharing) or [here](https://github.com/nouran551/Machine-Learning-Training/blob/main/Session6_pandas.ipynb) <br>
 Find the assignment [assignment](https://colab.research.google.com/drive/1pnX_CPX70aGKaneqJHbW0wCCSM2ET-rF?usp=sharing) or [here](https://github.com/nouran551/Machine-Learning-Training/blob/main/Assignment_6.ipynb) <br>
 <br>
 <br>
