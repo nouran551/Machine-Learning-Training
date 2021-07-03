@@ -72,6 +72,7 @@ Once you submitted Assignment 3 [Fill the form here](https://docs.google.com/for
 Find all solved examples in the lecture [here]() <br>
 Find the assignment [assignment](https://colab.research.google.com/drive/1PkzM183pXbnfHBayccppm9u48qsjOTnG?usp=sharing) or [here](https://github.com/nouran551/Machine-Learning-Training/blob/main/mini_Projects_4.ipynb) <br>
 Check out the [slides](https://docs.google.com/presentation/d/1EbvwQBpEbKUptJMsGEouDCX02fGRa2-AjcJ55HldJGg/edit?usp=sharing)<br>
+Check out the [Solution of assignment 4](https://colab.research.google.com/drive/15FhczXZvT9lY7r3qfRDSznwjW9JZFgEX?authuser=1#scrollTo=TS1TyTHHp_jx) or [here](https://github.com/nouran551/Machine-Learning-Training/blob/main/SOL_of_mini_Projects_4.ipynb)<br>
 Once you submitted Assignment 4 [Fill the form here](https://docs.google.com/forms/d/e/1FAIpQLSdwAcY4X8w_E-l6TqDf4WV6DPp3jpR_cXveEdnByjj6o5gfbQ/viewform?usp=sf_link)**Deadline: 15 of july 11:55 pm**<br>
 
 ### Feature Engineering:
