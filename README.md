@@ -62,7 +62,7 @@ Check out the [Recorded Lecture for session 3- Part 2 - Strings](https://drive.g
 Check out the [Recorded Lecture for session 3- Part 3 - Dictionaries and Sets](https://drive.google.com/file/d/1edPm2rGQk1_HvRwjn6NN36vjfRPmnFd9/view?fbclid=IwAR0lym4vtWEulZvwakop8ZvSn2qqNHozXeej-92iyhwG9VaqdzQDLW84m5g) <br>
 Check out the [Solution of assignment 3](https://github.com/nouran551/Machine-Learning-Training/blob/main/SOL_mini_Projects_3.ipynb) or [here](https://colab.research.google.com/drive/1zlxZCB0DWZlCv7L5kCQHpKq4TDOcZArX?usp=sharing)<br>
 Check out the [Recorded Lab for session 3](https://drive.google.com/file/d/16ykvq5EWPBSIYvqxnobFCP22Ewel1reC/view?fbclid=IwAR1OvWamGFwp0kXBD0QxEOeRulkp2l927Ol5yROOiEErnfav7J2YaTepZb8) <br>
-Once you submitted Assignment 3 [Fill the form here](https://docs.google.com/forms/d/e/1FAIpQLSfrg62I1tJ81fekR9yAlv36FbJ44DrIBor4cx-CXDQJhxOV3A/viewform?usp=sf_link)<br>
+Once you submitted Assignment 3 [Fill the form here](https://docs.google.com/forms/d/e/1FAIpQLSfrg62I1tJ81fekR9yAlv36FbJ44DrIBor4cx-CXDQJhxOV3A/viewform?usp=sf_link)**Deadline: 6 of july 11:55 pm**<br>
 
 #### Session 4:
 - Classes and Object-Oriented Programming.
@@ -72,7 +72,7 @@ Once you submitted Assignment 3 [Fill the form here](https://docs.google.com/for
 Find all solved examples in the lecture [here]() <br>
 Find the assignment [assignment](https://colab.research.google.com/drive/1PkzM183pXbnfHBayccppm9u48qsjOTnG?usp=sharing) or [here](https://github.com/nouran551/Machine-Learning-Training/blob/main/mini_Projects_4.ipynb) <br>
 Check out the [slides](https://docs.google.com/presentation/d/1EbvwQBpEbKUptJMsGEouDCX02fGRa2-AjcJ55HldJGg/edit?usp=sharing)<br>
-Once you submitted Assignment 4 [Fill the form here](https://docs.google.com/forms/d/e/1FAIpQLSdwAcY4X8w_E-l6TqDf4WV6DPp3jpR_cXveEdnByjj6o5gfbQ/viewform?usp=sf_link)<br>
+Once you submitted Assignment 4 [Fill the form here](https://docs.google.com/forms/d/e/1FAIpQLSdwAcY4X8w_E-l6TqDf4WV6DPp3jpR_cXveEdnByjj6o5gfbQ/viewform?usp=sf_link)**Deadline: 15 of july 11:55 pm**<br>
 
 ### Feature Engineering:
 #### Session 5:
