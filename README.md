@@ -60,6 +60,8 @@ Find the assignment [assignment](https://colab.research.google.com/drive/14gkfKc
 Check out the [Recorded Lecture for session 3- Part 1 - Lists and Tuples](https://drive.google.com/file/d/1iXkGZaPd_5KPD6iIsG7mWoTEJax2_M05/view?fbclid=IwAR1rUEPZVJvqh3y19e1C0thIdikDzdlHSbxBaB-wiME8hhn7lpGk0W-v2aY) <br>
 Check out the [Recorded Lecture for session 3- Part 2 - Strings](https://drive.google.com/file/d/13PVikoRDaY81l8KvzTGBZwTHUAPBKb8z/view?fbclid=IwAR1JA4op1t9OLvfCqs668LpLKuTgVe4_e2SW_X4yTgPi1Wwrnytiwp4h0QI) <br>
 Check out the [Recorded Lecture for session 3- Part 3 - Dictionaries and Sets](https://drive.google.com/file/d/1edPm2rGQk1_HvRwjn6NN36vjfRPmnFd9/view?fbclid=IwAR0lym4vtWEulZvwakop8ZvSn2qqNHozXeej-92iyhwG9VaqdzQDLW84m5g) <br>
+Check out the [Solution of assignment 3](https://github.com/nouran551/Machine-Learning-Training/blob/main/SOL_mini_Projects_3.ipynb) or [here](https://colab.research.google.com/drive/1zlxZCB0DWZlCv7L5kCQHpKq4TDOcZArX?usp=sharing)<br>
+Check out the [Recorded Lab for session 3](https://drive.google.com/file/d/16ykvq5EWPBSIYvqxnobFCP22Ewel1reC/view?fbclid=IwAR1OvWamGFwp0kXBD0QxEOeRulkp2l927Ol5yROOiEErnfav7J2YaTepZb8) <br>
 Once you submitted Assignment 3 [Fill the form here](https://docs.google.com/forms/d/e/1FAIpQLSfrg62I1tJ81fekR9yAlv36FbJ44DrIBor4cx-CXDQJhxOV3A/viewform?usp=sf_link)<br>
 
 #### Session 4:
